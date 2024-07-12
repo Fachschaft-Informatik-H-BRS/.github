@@ -5,4 +5,4 @@ Moin jetzt auch nochmal nicht so förmlich wir kümmern uns um die Studies als F
 
 WIr besuchen auch ab und zu mal die KIF(Konferenz Informatik Fachschaften) [KIF Wiki](https://wiki.kif.rocks/)
 
-FS-INF.org ist unsere Domain (https://www.fs-inf.org/)
+FS-INF.org ist unsere Domain (https://www.fs-inf.org/) ---> hier ist unser [Mensa](https://www.fs-inf.org/mensa.html) 
