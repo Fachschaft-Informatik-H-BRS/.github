@@ -3,4 +3,6 @@ Die Hochschule Bonn-Rhein-Sieg wurde zum 1. Januar 1995 durch das Land Nordrhein
 
 Moin jetzt auch nochmal nicht so förmlich wir kümmern uns um die Studies als Fachschaft und die Projekte dazu landen in der Regel hier. Nicht alles Public, aber mal sehen was Online kommt.
 
+WIr besuchen auch ab und zu mal die KIF(Konferenz Informatik Fachschaften) [KIF Wiki](https://wiki.kif.rocks/)
+
 FS-INF.org ist unsere Domain (https://www.fs-inf.org/)
